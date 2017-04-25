@@ -1,6 +1,6 @@
 # ReduxSimpleStarter
 
-Thanks for StephenGrider for his videos and work explaining the react-redux step by step. Here's his video. The purpose of this repo is just to walk through adding configurations step by step for adding newer packages; sass, redux and modifying changes in webpack.config.js 
+Thanks for [StephenGrider](https://github.com/StephenGrider/) for his videos and work explaining the react-redux step by step. Here's his video. The purpose of this repo is just to walk through adding configurations step by step for adding newer packages; sass, redux and modifying changes in webpack.config.js 
 Interested in learning [Redux](https://www.udemy.com/react-redux/)?
 
 ### Getting Started
